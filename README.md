@@ -1,1 +1,1 @@
-# balanca-estoque
+# Balança de estoque
